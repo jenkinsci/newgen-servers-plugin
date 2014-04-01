@@ -31,7 +31,7 @@
   <parent>
     <groupId>org.jvnet.hudson.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>1.392</version>
+    <version>1.395</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
@@ -126,7 +126,7 @@
     <maven-surefire-plugin.version>2.7.2</maven-surefire-plugin.version>
     <maven-surefire-report-plugin.version>2.7.2</maven-surefire-report-plugin.version>
     <maven-war-plugin.version>2.1.1</maven-war-plugin.version>
-    <apt-maven-plugin.version>1.0-alpha-4</apt-maven-plugin.version>
+    <apt-maven-plugin.version>1.0-alpha-5</apt-maven-plugin.version>
     <axistools-maven-plugin.version>1.4</axistools-maven-plugin.version>
     <buildnumber-maven-plugin.version>1.0-beta-4</buildnumber-maven-plugin.version>
     <build-helper-maven-plugin.version>1.5</build-helper-maven-plugin.version>
