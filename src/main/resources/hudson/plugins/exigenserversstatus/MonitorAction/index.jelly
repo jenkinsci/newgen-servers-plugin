@@ -7,7 +7,7 @@
 	<meta name="decorator" content="none" />
 	<meta http-equiv="imagetoolbar" content="no" />
 	<meta http-equiv="Refresh" content="30" />
-	<title>Exigen Servers Status</title>
+	<title>Servers Status</title>
 	<link type="image/vnd.microsoft.icon" rel="shortcut icon" href="${rootURL}/plugin/exigen-servers/icons/monitor-16x16.png"/>
 </head>
 <body>
@@ -154,7 +154,7 @@
 	</j:if>
 
 	<div style="clear: both; font-size: 30px; color: white ">[spacer]</div>
-	<div style="clear: both; font-size: 10px; ">(c) 2013-2014 Andrius Stasauskas, astasauskas@exigeninsurance.com, andrius@stasauskas.lt</div>
+	<div style="clear: both; font-size: 10px; ">(c) 2013-2014 Andrius Stasauskas, andrius@stasauskas.lt</div>
 
 </body>
 </html>

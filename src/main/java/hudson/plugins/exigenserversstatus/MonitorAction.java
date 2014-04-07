@@ -31,7 +31,7 @@ public class MonitorAction implements RootAction {
 
 	public String getDisplayName() {
 		// The Name on the Dashboard
-		return "Exigen Servers Status";
+		return "Servers Status";
 	}
 
 

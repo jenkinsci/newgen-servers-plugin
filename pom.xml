@@ -39,7 +39,7 @@
   <packaging>hpi</packaging>
   <version>1.4-SNAPSHOT</version>
 
-  <name>Exigen Servers Status Plugin</name>
+  <name>Servers Status Plugin</name>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/Exigen+Servers+Plugin</url>
 
   <licenses>

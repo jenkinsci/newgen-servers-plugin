@@ -1,5 +1,5 @@
 <j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
-	<f:section title="Exigen Servers Status">
+	<f:section title="Servers Status">
 		<f:entry title="Regexp pattern" description="server host and port is read from it, default is ${descriptor.defaultRegexpPattern}">
 			<f:textbox name="ess.regexpPattern" default="${descriptor.defaultRegexpPattern}" value="${instance.regexpPattern}" />
 		</f:entry>

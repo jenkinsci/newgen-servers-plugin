@@ -25,7 +25,7 @@ public class MonitorDescriptor extends BuildStepDescriptor<Publisher> {
 
 	@Override
 	public String getDisplayName() {
-		return "Exigen Servers Status";
+		return "Servers Status";
 	}
 
 	@Override
