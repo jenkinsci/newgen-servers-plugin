@@ -8,7 +8,7 @@
 	<meta http-equiv="imagetoolbar" content="no" />
 	<meta http-equiv="Refresh" content="30" />
 	<title>Servers Status</title>
-	<link type="image/vnd.microsoft.icon" rel="shortcut icon" href="${rootURL}/plugin/exigen-servers/icons/monitor-16x16.png"/>
+	<link type="image/vnd.microsoft.icon" rel="shortcut icon" href="${rootURL}/plugin/newgen-servers/icons/monitor-16x16.png"/>
 </head>
 <body>
 
@@ -120,7 +120,7 @@
 
 							<span id="jobtitle">
 								<j:if test="${project.building}">
-									<img width="32px" height="32px" src="${rootURL}/plugin/exigen-servers/images/ajax-loader.gif" title="${%monitor.build.currently}"/>
+									<img width="32px" height="32px" src="${rootURL}/plugin/newgen-servers/images/ajax-loader.gif" title="${%monitor.build.currently}"/>
 								</j:if>
 								<a href="${rootURL}/${project.url}" title="Build Summary">${project.name}</a>
 							</span>

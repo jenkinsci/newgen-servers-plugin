@@ -1,4 +1,4 @@
-package hudson.plugins.exigenserversstatus;
+package hudson.plugins.newgenserversstatus;
 
 import hudson.Extension;
 import hudson.model.*;
@@ -42,7 +42,7 @@ public class MonitorAction implements RootAction {
 
 	public String getUrlName() {
 		// The name of the URL path segment
-		return "/exigenservers";
+		return "/newgenservers";
 	}
 
 

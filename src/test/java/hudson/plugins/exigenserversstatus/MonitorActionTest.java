@@ -1,4 +1,4 @@
-package hudson.plugins.exigenserversstatus;
+package hudson.plugins.newgenserversstatus;
 
 import hudson.matrix.MatrixProject;
 import hudson.maven.MavenModuleSet;

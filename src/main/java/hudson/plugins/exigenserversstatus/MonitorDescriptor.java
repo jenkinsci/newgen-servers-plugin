@@ -1,4 +1,4 @@
-package hudson.plugins.exigenserversstatus;
+package hudson.plugins.newgenserversstatus;
 
 import hudson.model.AbstractProject;
 import hudson.tasks.BuildStepDescriptor;
@@ -10,8 +10,8 @@ import org.kohsuke.stapler.StaplerRequest;
 
 public class MonitorDescriptor extends BuildStepDescriptor<Publisher> {
 
-	public static final String ACTION_LOGO_LARGE = "/plugin/exigen-servers/icons/monitor-32x32.png";
-	public static final String ACTION_LOGO_MEDIUM = "/plugin/exigen-servers/icons/monitor-22x22.png";
+	public static final String ACTION_LOGO_LARGE = "/plugin/newgen-servers/icons/monitor-32x32.png";
+	public static final String ACTION_LOGO_MEDIUM = "/plugin/newgen-servers/icons/monitor-22x22.png";
 	
 	/**
 	 * For name in this format: servername-serverport-jobname

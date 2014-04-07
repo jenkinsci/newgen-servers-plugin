@@ -35,17 +35,17 @@
     <relativePath>org.jvnet.hudson.plugins:hudson-plugin-parent</relativePath>
   </parent>
 
-  <artifactId>exigen-servers</artifactId>
+  <artifactId>newgen-servers</artifactId>
   <packaging>hpi</packaging>
   <version>1.4-SNAPSHOT</version>
 
   <name>Servers Status Plugin</name>
-  <url>http://wiki.jenkins-ci.org/display/JENKINS/Exigen+Servers+Plugin</url>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Newgen+Servers+Plugin</url>
 
   <licenses>
     <license>
       <name>The MIT license</name>
-      <url>https://github.com/jenkinsci/exigen-servers-plugin/raw/master/LICENSE.txt</url>
+      <url>https://github.com/jenkinsci/newgen-servers-plugin/raw/master/LICENSE.txt</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -61,9 +61,9 @@
 
   <!-- Based on http://wiki.jenkins-ci.org/display/JENKINS/Status+Monitor+Plugin -->
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/exigen-servers-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/exigen-servers-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/exigen-servers-plugin</url>
+    <connection>scm:git:git://github.com/jenkinsci/newgen-servers-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/newgen-servers-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/newgen-servers-plugin</url>
   </scm>
 
   <repositories>
@@ -87,7 +87,7 @@
     </repository>
     <site>
       <id>github-project-site</id>
-      <url>gitsite:git@github.com/jenkinsci/exigen-servers-plugin</url>
+      <url>gitsite:git@github.com/jenkinsci/newgen-servers-plugin</url>
     </site>
   </distributionManagement>
 

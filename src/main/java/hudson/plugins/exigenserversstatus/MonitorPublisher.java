@@ -1,4 +1,4 @@
-package hudson.plugins.exigenserversstatus;
+package hudson.plugins.newgenserversstatus;
 
 import hudson.Extension;
 import hudson.Launcher;
